@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/lib-jit/lib/src/main/kotlin/com/moonlight/lib/Library.kt",
+      "selection": {
+        "end": {
+          "column": 53,
+          "index": 268,
+          "line": 11
+        },
+        "start": {
+          "column": 53,
+          "index": 268,
+          "line": 11
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/lib-jit/lib/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/lib-jit/lib/build.gradle.kts"
+}
