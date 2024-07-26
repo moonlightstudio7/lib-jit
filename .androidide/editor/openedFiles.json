@@ -19,14 +19,14 @@
       "file": "/storage/emulated/0/AndroidIDEProjects/lib-jit/lib/build.gradle.kts",
       "selection": {
         "end": {
-          "column": 30,
-          "index": 602,
-          "line": 18
+          "column": 2,
+          "index": 798,
+          "line": 28
         },
         "start": {
-          "column": 30,
-          "index": 602,
-          "line": 18
+          "column": 2,
+          "index": 798,
+          "line": 28
         }
       }
     }
