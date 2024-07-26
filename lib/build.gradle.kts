@@ -11,6 +11,20 @@ plugins {
 
     // Apply the java-library plugin for API and implementation separation.
     `java-library`
+    
+    // maven publish
+    `maven-publish`
+}
+
+group = "com.moonlight.lib-jit"
+version = "0.0.1"
+
+publishing {
+        publications {
+                create<MavenPublication>("Maven") {
+                        from(components["java"])
+                }
+        }
 }
 
 repositories {
